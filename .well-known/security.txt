@@ -1,4 +1,11 @@
+     # Please report any security vulnerabilities to us via the contact method(s) below, only after reading the XXXXXX Vulnerability Disclosure Policy.
+     # Find the XXXXXX Vulnerability Disclosure Policy here >> https://b88tneck.github.io/vulnerability_disclosure.md 
+     # Once happy with the terms of the VDP, please use the following contact details:
+
      Contact: mailto:security@example.com
-     Encryption: https://example.com/pgp-key.txt
-     Acknowledgments: https://example.com/hall-of-fame.html
-     Policy: https://<username>.github.io/VULNERABILITY_DISCLOSURE.html
+     Expires: 20XX-XX-XXT03:14:07Z
+
+     Online Form: https://<<INSERT-URI>>.com
+     Policy: https://<username>.github.io/vulnerability_disclosure.md
+  
+     # Please see https://securitytxt.org/ for details of the specification of this file.
