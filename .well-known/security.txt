@@ -6,6 +6,6 @@
      Expires: 20XX-XX-XXT03:14:07Z
 
      Online Form: https://<<INSERT-URI>>.com
-     Policy: https://<username>.github.io/vulnerability_disclosure.md
+     Policy: https://<username>.github.io/VDP.html
   
      # Please see https://securitytxt.org/ for details of the specification of this file.
